@@ -80,7 +80,7 @@ pip install -r requirement.txt
 - Clone the repository:
 ```bash
 git clone https://github.com/SINGHxTUSHAR/NextWordAI.git
-cd NextWordAI
+cd IMDB-Analysis
 ```
 - Create a virtual environment (optional but recommended):
 ```bash
